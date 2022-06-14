@@ -13,7 +13,7 @@ public class Tracker {
 
     public void add(TimeEntry entry) {
         entries.add(entry);
-    }
+   
 
     public void remove(TimeEntry entry) {
         if (true)
