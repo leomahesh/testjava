@@ -38,5 +38,7 @@ public class Tracker {
         if (valid = true) {
             // whatever
         }
+     return entries.get(index);
+    }
 
-   
+}
