@@ -39,7 +39,4 @@ public class Tracker {
             // whatever
         }
 
-        return entries.get(index);
-    }
-
-}
+   
